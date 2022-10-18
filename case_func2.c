@@ -93,6 +93,7 @@ int print_rev(va_list arg)
 {
 	int i = 0;
 	int j;
+	
 	char *s = va_arg(arg, char *);
 
 	if (!s)
