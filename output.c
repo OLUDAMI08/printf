@@ -53,10 +53,10 @@ char *convert(char hexa_dec[], unsigned int num, int base)
 	return(ptr);
 }
 /**
- *_strlen - reset number
- *Description: This function return a length for some string
- *@s: pointer char
- *Return: int length
+ * _strlen - reset number
+ * Description: This function return a length for some string
+ * @s: pointer char
+ * Return: int length
  */
 int _strlen(char *s)
 {
